@@ -1,5 +1,5 @@
 ## Repository
-[https://github.com/KrishNarsaria/FinClub-Project2](https://github.com/KrishNarsaria/FinClub-Project2)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)
 # NIFTY50 Options IV Surface Reconstruction
 
 **Author:** Krish Narsaria (ID: 24114052)  
