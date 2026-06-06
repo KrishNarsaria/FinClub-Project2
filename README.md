@@ -1,9 +1,9 @@
 ## Repository
-![Status: Completed](https://img.shields.io/badge/Status-Completed-green.svg)
+
 # NIFTY50 Options IV Surface Reconstruction
 
 **Author:** Krish Narsaria (ID: 24114052)  
-**Institution:** Indian Institute of Technology (IIT) Roorkee  
+**Institution:** Indian Institute of Technology Roorkee 
 **Course:** Computer Science and Engineering (CSE-3Y)  
 **Duration:** May-June 2026
 
